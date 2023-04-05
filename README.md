@@ -1,4 +1,4 @@
-# SCoMMER
+# ESMER
 Official Repository for ICLR'23 Paper "[Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning](https://openreview.net/pdf?id=zlbci7019Z3)"
 
 We extended the [CLS-ER](https://github.com/NeurAI-Lab/CLS-ER) repo with our method
