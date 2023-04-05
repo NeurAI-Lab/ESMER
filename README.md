@@ -31,3 +31,16 @@ We extended the [CLS-ER](https://github.com/NeurAI-Lab/CLS-ER) repo with our met
 
 - torch==1.7.0
 - torchvision==0.9.0 
+
+## Cite Our Work
+
+If you find the code useful in your research, please consider citing our paper:
+
+    @inproceedings{
+      sarfrazerror,
+      title={Error Sensitivity Modulation based Experience Replay: Mitigating Abrupt Representation Drift in Continual Learning},
+      author={Sarfraz, Fahad and Arani, Elahe and Zonooz, Bahram},
+      booktitle={The Eleventh International Conference on Learning Representations},
+      year={2023},
+      url={https://openreview.net/forum?id=zlbci7019Z3}
+    }
